@@ -1,1 +1,1 @@
-We are inside the first repository.
+We are inside the second repository.
